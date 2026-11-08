@@ -7,7 +7,7 @@ A collection of responsive frontend projects built using **HTML5** and **CSS3**.
 ## 🚀 About the Project
 
 Frontend Showcase is a collection of beginner-to-intermediate frontend projects that demonstrate my understanding of HTML and CSS fundamentals. Each project focuses on improving layout design, page structure, responsiveness, and user interface development.
-
+  
 ---
 
 ## ✨ Features
